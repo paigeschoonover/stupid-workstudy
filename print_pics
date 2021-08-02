@@ -1,4 +1,0 @@
-import os
-
-image_list=os.listdir(r"C:\Users\paige\workspace\New Image Folders\Downloaded_Images_Week1\1--5662233")
-print (image_list)
